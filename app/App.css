@@ -1,0 +1,8 @@
+.root {
+  height: auto;
+  background-color: green;
+  margin: 20px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+  border: 2px solid blue;
+}

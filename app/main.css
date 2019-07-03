@@ -1,0 +1,8 @@
+body{
+  background-color: #ccc;
+  overflow: hidden;
+  border: 2px solid #fff;
+}
+ul, li{
+  list-style: none;
+}
